@@ -25,7 +25,7 @@ VR기기를 이용하여 한자를 따라서 적어보고 한자에 알맞은 �
 <br>
 <br>
 
-#### ⬇️ Click IMG to play with youtube ⬇️
+#### ⬇️ 참고 영상 ⬇️
 <br>
 
 [[![MYH](http://img.youtube.com/vi/9Gf8VeshwNc/0.jpg)](https://youtu.be/OmX02w6bPRU)]
