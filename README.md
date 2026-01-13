@@ -1,5 +1,5 @@
 # HanjaQuest
-- VR 한자 학습 게임
+- VR을 활용한 한자 학습 게임
 - 2024 메타버스 경진대회 출품
 <br>
 <br>
@@ -24,6 +24,11 @@ VR기기를 이용하여 한자를 따라서 적어보고 한자에 알맞은 �
 또한 미니게임을 진행하며 학습한 한자를 복습해 학습 효과를 높이고, 재미를 더해줘 자연스러운 학습을 유도합니다.<br>
 <br>
 <br>
+
+#### ⬇️ Click IMG to play with youtube ⬇️
+<br>
+
+[[![MYH](http://img.youtube.com/vi/9Gf8VeshwNc/0.jpg)](https://youtu.be/OmX02w6bPRU)]
 
 ## 3. 기능 설명
 [메인 화면]
@@ -60,8 +65,3 @@ Stage 3 : 마을의 당근을 뻇으러 온 토끼를 한자를 통해 물리치
 <br>
 
 ---
-
-#### ⬇️ Click IMG to play with youtube ⬇️
-<br>
-
-[![MYH](http://img.youtube.com/vi/9Gf8VeshwNc/0.jpg)](https://youtu.be/9Gf8VeshwNc?t=0s)
